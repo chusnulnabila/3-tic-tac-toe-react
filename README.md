@@ -1,8 +1,13 @@
-# React + Vite
+# 🌟 React Learning Journey 🚀
+Hello! 👋 I’m a beginner learning React. This repository documents my journey after completing the Tic-Tac-Toe tutorial from React Documentation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📚 What’s Inside?
+**Simple React projects** based on (tutorials)[https://react.dev/learn/tutorial-tic-tac-toe#].
+The next step after my previous repository: (2-Tic-Tac-Toe)[https://github.com/chusnulnabila/2-tic-tac-toe].
+# 🚀 Goals
+Improve my understanding of components, state, and props.
+Explore more advanced React features.
+# 🤝 Suggestions & Feedback
+Have ideas or suggestions? Feel free to open an Issue and let me know!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Thank you for visiting! 🌟
